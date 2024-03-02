@@ -5,5 +5,9 @@ Welcome to my internship showcase as part of the CodSoft Internship Februrary an
 In this repository, I present my Three significant tasks I accomplished during my internship:
 
 Task 1: Titanic Survival Prediction
+
+
 Task 2: Movie Rating Production with Python
+
+
 Task 3: Iris Flower Classification
